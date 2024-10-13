@@ -12,7 +12,7 @@ java 17, Spring Boot 3.2.0, H2, Mockito, Junit
 Релизованы модульные тесты.
 Обработаны возможные ошибки при работе с сервисом.
 
-Документация api произведена в swagger OpenAPI
+Документация api произведена в swagger OpenAPI.
 Ознакомиться с api можно по следующему url после запуска приложения:
 
 http://localhost:8080/swagger-ui/index.html#/
